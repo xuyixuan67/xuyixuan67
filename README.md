@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tammy</h1>
-<h3 align="center">A self-taught web developer from Taiwan. C</h3>
+<h3 align="center">A self-taught web developer from Taiwan.</h3>
 
 - 🌱 I’m currently learning **React and Tailwind**
 
